@@ -1,0 +1,20 @@
+/* CSS Document */
+.clearfix:after{
+	content:"";
+	diaplay:block;
+	height:0px;
+	clear:both;
+	overflow:hidden;
+}
+
+.fl{
+	float:left;
+}
+
+.fr{
+	float:right;
+}
+
+.clearfix{
+		zoom:1;
+}
